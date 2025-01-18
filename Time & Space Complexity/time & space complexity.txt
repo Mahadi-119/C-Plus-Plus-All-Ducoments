@@ -1,0 +1,5 @@
+[Time complexity] hosse kono funtion ar modde offeration salano hole  and sheta exicute korte je shamoy ta lage shata ke Time Complexity bole ;
+
+[Space Complexity] hosse akta array ar modde kiso Parformece korar por arak ta array ar modde shata input nea ke Space Complexity Bole ;
+
+[Big O Notation ke Symbol ar moto babhor kora hoy] ata ke  Wost case complexity(upper bound bola hoy)
