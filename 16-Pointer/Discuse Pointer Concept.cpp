@@ -20,9 +20,15 @@ int main(){
             // [Dereference ater mane hosse Address ar upor jay valu ase oy valu bahir korar nieom ke bole]
     // int a =  10;
     // int* ptr = &a;
-    // int** ptr2 = &a;
-    // cout << *(&a) << endl; // It is Dereference Example
-    // cout << *(&ptr) << endl; // It is Dereference Example
-    // cout << **(&ptr2) << endl; // It is Dereference Example
+    // int** ptr2 = &ptr;
+    // cout << *(a) << endl; // It is Dereference Example
+    // cout << *(ptr) << endl; // It is Dereference Example
+    // cout << **(ptr2) << endl; // It is Dereference Example
+
+
+                // NULL Pointer
+        // Null ar mane hosse khali ;
+    int* ptr = NULL;
+    cout << ptr << endl;
     return 0;
 }
