@@ -7,8 +7,13 @@ using namespace std;
 
 
                     // Pass by referens;
-// void chang(int* ptr ){ // Ata hosse pass by referens 
+// void chang(int* ptr ){ // Ata hosse pass by referens using Pointer
 //     *ptr = 20;
+// }
+// int main(){
+//     int a = 10;
+//     chang(&a);
+//     cout << "inside main function : " << a << endl;
 // }
 
 
