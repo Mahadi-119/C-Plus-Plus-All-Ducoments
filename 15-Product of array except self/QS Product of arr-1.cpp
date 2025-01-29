@@ -24,7 +24,7 @@ int main() {
     vector<int> num = {1, 2, 3, 4}; 
     vector<int> totalProduct = product(num); 
     
-    cout << "Sum Of Product : " M
+    cout << "Sum Of Product : " ;
     for (int val : totalProduct) {
         cout << val << " ";
     }
