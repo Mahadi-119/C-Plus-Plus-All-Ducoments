@@ -2,6 +2,8 @@
 #include <vector>
 using namespace std;
 
+
+ //checking git and git repo
 bool isValid(vector<int>& arr, int n, int m, int maxAllowPage){
     int stu = 1, page = 0;
 
